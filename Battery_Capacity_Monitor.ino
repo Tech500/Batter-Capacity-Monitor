@@ -1,6 +1,6 @@
 /*
 
-   Base on Microsoft Copilot generation C++ Code
+   Based on Microsoft Copilot Generated C++ Code
    Code debugged and Modified by Wlliam Lucid 11/15/2024 @ 11:22 AM
 
 */
