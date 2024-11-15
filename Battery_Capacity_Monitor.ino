@@ -13,8 +13,8 @@
 #include <ThingSpeak.h>
 #include <AdvancedSerial.h>
 
-const char* ssid = "R2D2";
-const char* password = "sissy4357";
+const char* ssid = "yourSSID";
+const char* password = "yourPASSWORD";  //Netork password
 const char* myWriteAPIKey = "E12345678";  // Dummy API key
 const long myChannelNumber = 12345678;    // Dummy channel number
 
